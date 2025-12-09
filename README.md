@@ -13,9 +13,9 @@
 -  Dice Roller - Dice roller with statistics and history
 
 ## Academic Projects (WGU)
-- Capstone
-- DSA Project
-- AI/ML Project
+- Capstone (Netflix ANN Project) - https://github.com/vlohana103/C964-Capstone
+- DSA Project - https://github.com/vlohana103/C950-DSA2
+- AI Project - https://github.com/vlohana103/Intro-to-AI-Task1 | https://github.com/vlohana103/Intro-to-AI-task-2
 
 ## Skills
 - Languages: Python, Java, C++
