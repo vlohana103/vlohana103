@@ -8,9 +8,9 @@
 - 📫 vlohana103@gmail.com | linkedin.com/in/vglohana
 
 ## Recent Projects
--- Quote API - CLI app using ZenQuotes API with a favorites feature
--- Expense Tracker - Track expenses with totals and history in the CLI
--- Dice Roller - Dice roller with statistics and history
+- Quote API - CLI app using ZenQuotes API with a favorites feature
+- Expense Tracker - Track expenses with totals and history in the CLI
+-  Dice Roller - Dice roller with statistics and history
 
 ## Academic Projects (WGU)
 - Capstone
