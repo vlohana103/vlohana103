@@ -5,7 +5,7 @@
 - 🐍 Actively building Python projects and learning web development
 - 🌱 Currently learning Flask and Fast API and Fedora Linux
 - 💼 Looking for Python Backend or Full-stack Developer roles
-- 📫 vlohana103@gmail.com | linkedin.com/in/vglohana
+- 📫 vlohana103@gmail.com | [linkedin.com/in/vglohana](https://www.linkedin.com/in/vglohana/)
 
 ## Recent Projects
 - Quote API - CLI app using ZenQuotes API with a favorites feature
