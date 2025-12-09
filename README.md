@@ -1,4 +1,4 @@
-## Hi, I'm Vikas 👋
+# Hi, I'm Vikas 👋
 
 ## About Me
 - 🎓 BS in Computer Science from Western Governors University
