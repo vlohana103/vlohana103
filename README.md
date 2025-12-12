@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 BS in Computer Science from Western Governors University
 - 🐍 Actively building Python projects and learning web development
-- 🌱 Currently learning Flask and Fast API and Fedora Linux
+- 🌱 Currently learning Django and Fedora Linux
 - 💼 Looking for Python Backend or Full-stack Developer roles
 - 📫 vlohana103@gmail.com | [linkedin.com/in/vglohana](https://www.linkedin.com/in/vglohana/)
 
@@ -19,12 +19,11 @@
 
 ## Skills
 - Languages: Python, Java, C++
-- Frameworks: Flask (Learning), Java Frameworks
+- Frameworks: Django (Learning), Springboot
 - Tools: GIT, APIs, JSON, DOCKER, Postman
 - Conceps: DSA, OOP, AI/ML basics
 
 ## Currently Learning
-- Flask web framework
+- Django framework
 - RESTful API design
-- FastAPI
 - Fedora Linux
